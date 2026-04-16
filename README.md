@@ -1,6 +1,6 @@
 # Kalkulator ryzyka rynkowego — VaR / CVaR
 
-[![tests](https://github.com/Mmaladza/kalkulator-ryzyka/actions/workflows/tests.yml/badge.svg)](https://github.com/Mmaladza/kalkulator-ryzyka/actions/workflows/tests.yml)
+
 [![python](https://img.shields.io/badge/python-3.12-blue.svg)](https://www.python.org/downloads/release/python-3120/)
 [![license](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
 
