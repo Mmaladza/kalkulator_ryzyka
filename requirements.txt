@@ -1,0 +1,9 @@
+PyQt6>=6.6
+yfinance>=0.2.40
+requests>=2.31
+numpy>=1.26
+pandas>=2.1
+scipy>=1.11
+matplotlib>=3.8
+pyarrow>=14.0
+pytest>=7.4

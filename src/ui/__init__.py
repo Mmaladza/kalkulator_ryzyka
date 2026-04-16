@@ -1,0 +1,1 @@
+"""Warstwa prezentacji PyQt6."""
